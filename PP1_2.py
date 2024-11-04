@@ -20,7 +20,7 @@ def q3():
 
 def q4():
   g, h = 6.3, 3.0
-  i = print(g // h)
+  print(g // h)
   #Write Assignment code here
 
 def q5():
