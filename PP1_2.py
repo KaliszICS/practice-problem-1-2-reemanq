@@ -3,14 +3,12 @@
 
 
 def q1():
-  name = Alex
+  name = 'Alex'
   print(name)
   #Write Assignment code here
 
 def q2():
-  a = 3
-  b = 5
-  c = 2
+  a, b, c = 3, 5, 2
   print(a + b + c)
   #Write Assignment code here
 
