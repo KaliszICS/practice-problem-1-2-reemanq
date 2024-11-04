@@ -14,13 +14,13 @@ def q2():
 
 def q3():
   d, e = 21, 4
-  f = (21 / 4)
+  f = (21 // 4)
   print(f)
   #Write Assignment code here
 
 def q4():
   g, h = 6.3, 3.0
-  print(g // h)
+  print(g / h)
   #Write Assignment code here
 
 def q5():
