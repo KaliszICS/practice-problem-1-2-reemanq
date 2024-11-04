@@ -3,24 +3,42 @@
 
 
 def q1():
+  name = Alex
+  print(name)
   #Write Assignment code here
 
 def q2():
+  a = 3
+  b = 5
+  c = 2
+  print(a + b + c)
   #Write Assignment code here
 
 def q3():
+  d, e = 21, 4
+  f = (21 // 4)
+  print(f)
   #Write Assignment code here
 
 def q4():
+  g, h = 6.3, 3.0
+  i = print(g // h)
   #Write Assignment code here
 
 def q5():
+  j = "Hello World"
+  print(j)
+  print(j.replace('Hello World', 'Goodbye World'))
   #Write Assignment code here
 
 def q6():
+  k = "True"
+  print(k)
   #Write Assignment code here
 
 def q7():
+  l, m = 7, 2
+  print(l % m)
   #Write Assignment code here
 
   
