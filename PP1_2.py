@@ -14,7 +14,7 @@ def q2():
 
 def q3():
   d, e = 21, 4
-  f = (21 // 4)
+  f = (21 / 4)
   print(f)
   #Write Assignment code here
 
